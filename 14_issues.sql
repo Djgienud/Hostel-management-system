@@ -1,0 +1,11 @@
+INSERT INTO issues (candidate_id, issue_category, direction, issue_title, issue_status) VALUES (1, 'Maintenance', 'C-H', 'Fan not working', 'Resolved');
+INSERT INTO issues (candidate_id, issue_category, direction, issue_title, issue_status) VALUES (2, 'Maintenance', 'C-H', 'Fan not working', 'Resolved');
+INSERT INTO issues (candidate_id, issue_category, direction, issue_title, issue_status) VALUES (3, 'Maintenance', 'C-H', 'Fan not working', 'Resolved');
+INSERT INTO issues (candidate_id, issue_category, direction, issue_title, issue_status) VALUES (4, 'Maintenance', 'C-H', 'Fan not working', 'Resolved');
+INSERT INTO issues (candidate_id, issue_category, direction, issue_title, issue_status) VALUES (5, 'Maintenance', 'C-H', 'Fan not working', 'Resolved');
+INSERT INTO issues (candidate_id, issue_category, direction, issue_title, issue_status) VALUES (6, 'Maintenance', 'C-H', 'Fan not working', 'Resolved');
+INSERT INTO issues (candidate_id, issue_category, direction, issue_title, issue_status) VALUES (7, 'Maintenance', 'C-H', 'Fan not working', 'Resolved');
+INSERT INTO issues (candidate_id, issue_category, direction, issue_title, issue_status) VALUES (8, 'Maintenance', 'C-H', 'Fan not working', 'Resolved');
+INSERT INTO issues (candidate_id, issue_category, direction, issue_title, issue_status) VALUES (9, 'Maintenance', 'C-H', 'Fan not working', 'Resolved');
+INSERT INTO issues (candidate_id, issue_category, direction, issue_title, issue_status) VALUES (10, 'Maintenance', 'C-H', 'Fan not working', 'Resolved');
+COMMIT;

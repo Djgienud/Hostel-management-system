@@ -1,0 +1,7 @@
+INSERT INTO institutions (institution_name, address, contact_no, mou_details, mou_contact_person) VALUES ('Visvesvaraya National Institute of Technology (VNIT)', 'South Ambazari Road, Nagpur', '0712-2801370', 'MOU for VNIT Students', 'Dr. P.M. Padole');
+INSERT INTO institutions (institution_name, address, contact_no, mou_details, mou_contact_person) VALUES ('Shri Ramdeobaba College (RCOEM)', 'Katol Road, Nagpur', '0712-2580011', 'MOU for Engineering Students', 'Dr. R.S. Pande');
+INSERT INTO institutions (institution_name, address, contact_no, mou_details, mou_contact_person) VALUES ('G. H. Raisoni College of Engineering', 'CRPF Gate No. 3, Nagpur', '0712-1234567', 'MOU for Technical Students', 'Sachin Untawale');
+INSERT INTO institutions (institution_name, address, contact_no, mou_details, mou_contact_person) VALUES ('The Unique Academy (MPSC/UPSC Prep)', 'Sitabuldi, Nagpur', '0712-2334455', 'MOU for Competitive Exam Aspirants', 'Tukaram Jadhav');
+INSERT INTO institutions (institution_name, address, contact_no, mou_details, mou_contact_person) VALUES ('Allen Career Institute (JEE/NEET)', 'Dharampeth, Nagpur', '0712-2445566', 'MOU for Coaching Students', 'Rajesh Sharma');
+INSERT INTO institutions (institution_name, address, contact_no, mou_details, mou_contact_person) VALUES ('Government Medical College (GMC)', 'Hanuman Nagar, Nagpur', '0712-2743588', 'MOU for Medical Students', 'Dr. Raj Gajbhiye');
+COMMIT;
